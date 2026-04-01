@@ -4,6 +4,9 @@
   <a href="https://arxiv.org/abs/2509.02261">
     <img src="https://img.shields.io/badge/arXiv-2509.02261-b31b1b.svg" alt="arXiv">
   </a>
+  <a href="https://link.springer.com/chapter/10.1007/978-981-95-5758-5_29">
+    <img src="https://img.shields.io/badge/PRCV-2025-blue.svg" alt="PRCV 2025">
+  </a>
 </p>
 
 ## Overview🔍
